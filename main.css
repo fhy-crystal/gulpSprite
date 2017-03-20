@@ -1,0 +1,9 @@
+.item{width: 120px; height: 120px; list-style-type: none;}
+.item1{display: inline-block; width: 60px; height: 60px; background: url('image/btn_gal_next_atv.png') no-repeat center;}
+.item2{display: inline-block; width: 60px; height: 60px; background: url('image/btn_gal_prev_atv.png') no-repeat center;}
+.item3{display: inline-block; width: 24px; height: 18px; background: url('image/c_big.jpg') no-repeat center;}
+.item4{display: inline-block; width: 24px; height: 18px; background: url('image/c_close.jpg') no-repeat center;}
+.item5{display: inline-block; width: 24px; height: 18px; background: url('image/c_down.jpg') no-repeat center;}
+.item6{display: inline-block; width: 19px; height: 17px; background: url('image/dibu_03.jpg') no-repeat center;}
+.item7{display: inline-block; width: 19px; height: 17px; background: url('image/dibu_05.jpg') no-repeat center;}
+.item8{display: inline-block; width: 19px; height: 17px; background: url('image/dibu_07.jpg') no-repeat center;}

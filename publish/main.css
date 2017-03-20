@@ -1,0 +1,59 @@
+.item {
+	list-style-type: none;
+}
+
+.item1 {
+	width: 60px;
+	height: 60px;
+	background: url('./image/sprite.png') no-repeat center;
+	background-position: -0px -0px;
+}
+
+.item2 {
+	width: 60px;
+	height: 60px;
+	background: url('./image/sprite.png') no-repeat center;
+	background-position: -60px -0px;
+}
+
+.item3 {
+	width: 24px;
+	height: 18px;
+	background: url('./image/sprite.png') no-repeat center;
+	background-position: -0px -60px;
+}
+
+.item4 {
+	width: 24px;
+	height: 18px;
+	background: url('./image/sprite.png') no-repeat center;
+	background-position: -24px -60px;
+}
+
+.item5 {
+	width: 24px;
+	height: 18px;
+	background: url('./image/sprite.png') no-repeat center;
+	background-position: -48px -60px;
+}
+
+.item6 {
+	width: 19px;
+	height: 17px;
+	background: url('./image/sprite.png') no-repeat center;
+	background-position: -91px -60px;
+}
+
+.item7 {
+	width: 19px;
+	height: 17px;
+	background: url('./image/sprite.png') no-repeat center;
+	background-position: -72px -60px;
+}
+
+.item8 {
+	width: 19px;
+	height: 17px;
+	background: url('./image/sprite.png') no-repeat center;
+	background-position: -0px -78px;
+}
